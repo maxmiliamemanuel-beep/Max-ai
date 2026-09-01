@@ -1,0 +1,47 @@
+# Android
+*.apk
+*.ap_
+*.dex
+*.class
+.gradle/
+build/
+local.properties
+.DS_Store
+.idea/
+*.iml
+*.iws
+*.ipr
+.classpath
+.project
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+.vscode/
+
+# Backend
+node_modules/
+dist/
+.env
+.env.local
+*.log
+pip-log.txt
+pip-delete-this-directory.txt
+.tox/
+.coverage
+.coverage.*
+htmlcov/
+.pytest_cache/
+__pycache__/
+*.py[cod]
+*$py.class
+.venv
+venv/
+
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+*.swp
+*.swo
+*~
